@@ -1,7 +1,7 @@
 Olá ✌✌✌✌
 
  💻 Estudando C++ 
- ✉ Contato: livia.v@escolar.ifrn.edu.br
+ ✉ Contato: annalivia00@outlook.com
  🌱 Vegetariana
  
  <div align="center">
