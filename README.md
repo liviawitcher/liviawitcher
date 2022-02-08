@@ -1,8 +1,8 @@
 Olá ✌✌✌✌
 
- 💻 Estudando C++ 
- ✉ Contato: annalivia00@outlook.com
- 🌱 Vegetariana
+  Estudando C++ 💻
+  Contato: annalivia00@outlook.com ✉
+  Vegetariana 🌱
  
  <div align="center">
   <a href="https://github.com/livia.witcher">
