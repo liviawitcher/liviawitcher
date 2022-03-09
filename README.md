@@ -1,6 +1,6 @@
 Olá ✌✌✌✌
 
-  Estudando C++ 💻
+  Cursando Análise e Densenvolvimento de Sistemas 💻
   Contato: annalivia00@outlook.com ✉
   Vegetariana 🌱
  
