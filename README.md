@@ -1,8 +1,8 @@
 Olá ✌✌✌✌
 
-  Cursando Análise e Densenvolvimento de Sistemas 💻
+  Cursando Rede de Computadores - IFRN 💻
   Contato: annalivia00@outlook.com ✉
-  Vegetariana 🌱
+  
  
  <div align="center">
   <a href="https://github.com/livia.witcher">
